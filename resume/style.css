@@ -1,0 +1,65 @@
+.personal-info {
+  text-align: center;
+  color: black;
+}
+
+.name {
+  font-size: 36px;
+}
+
+.phone {
+  font-size: 22px;
+}
+
+.email .linkedin .website {
+  font-size: 16px;
+}
+
+.section-header {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.section-content {
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.company {
+  text-transform: uppercase;
+  font-size: 16px;
+  text-align: left;
+  float: left;
+}
+.date {
+  text-align: right;
+  float: right;
+  font-size: 16px;
+}
+
+.location {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.title {
+  font-size: 16px;
+  margin: 10px 0 -10px 0;
+}
+
+.duties {
+  text-decoration: none;
+  font-size: 12px;
+}
+
+/* ul {
+  
+    text-decoration: none;
+  
+} */
+
+.underline {
+  text-decoration: underline;
+}
